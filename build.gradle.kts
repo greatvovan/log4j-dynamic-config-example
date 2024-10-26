@@ -23,5 +23,5 @@ dependencies {
 }
 
 application {
-    mainClass = "io.opentelemetry.example.logappender.Application"
+    mainClass = "io.opentelemetry.example.logappender.Application2"
 }
